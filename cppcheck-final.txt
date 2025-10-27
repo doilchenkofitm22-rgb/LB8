@@ -1,0 +1,8 @@
+
+cppcheck 2.14.0
+--------
+
+Checking cJSON project ...
+
+No errors found.
+0 errors, 0 warnings.
